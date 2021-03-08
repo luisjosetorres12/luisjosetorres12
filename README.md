@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hola, soy Luis José
 
-<!--
-**luisjosetorres12/luisjosetorres12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Soy desarrollador de Software, apasionado por las nuevas tecnologias y el aprendizaje continuo.
+Actualmente soy Desarrollador Front End and Back End (Siento que decir FullStack incluye muchas cosas las cuales estoy en proceso de aprenderlas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+- 🔭 Actualmente trabajo en Globalwork
+- 🌱 En proceso de Aprender Typescript, C++ (Me gustaria realizar pruebas con addons en NodeJs)
+- 😄 Como meta, me gustaria realizar mas proyectos de practicas y publicarlos, de esa forma puedo aprender mas y puede conocer un poco mas de mi trabajo
+- ⚡ Me gusta mucho el anime y peliculas sobre ciencia ficción.
+
